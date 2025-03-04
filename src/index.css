@@ -102,6 +102,11 @@ p {
   opacity: 0.7;
 }
 
+.icon {
+  margin-right: 10px; /* Adjust the value to your desired spacing */
+}
+
+
 
 
 @media (min-width: 640px) {

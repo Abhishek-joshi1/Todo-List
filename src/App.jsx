@@ -7,6 +7,7 @@ function App() {
     <>
     <main>
       <TodoInput />
+      <br />
       <TodoList />
     </main>
     </>
