@@ -1,8 +1,14 @@
+import TodoInput from "./components/TodoInput.jsx"
+import TodoList from "./components/TodoList.jsx"
+
 function App() {
 
   return (
     <>
-    <h1>this is my react app</h1>
+    <main>
+      <TodoInput />
+      <TodoList />
+    </main>
     </>
   )
 }
